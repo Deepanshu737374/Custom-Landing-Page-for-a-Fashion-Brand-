@@ -1,1 +1,2 @@
 # Custom-Landing-Page-for-a-Fashion-Brand-
+To design and develop a custom e-commerce landing page for a fictional fashion brand, utilizing HTML, CSS, and JavaScript. This responsive landing page showcases a new product line with a visually appealing and user-friendly interface, ensuring an optimized experience across all devices. The project demonstrates proficiency in front-end web development, responsive design, and integration of interactive elements to enhance user engagement.
